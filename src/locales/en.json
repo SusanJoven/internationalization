@@ -5,7 +5,6 @@
 	"City": "City",
 	"PulibicationDate": "Publication date",
 	"Views": "Views",
-	"One":"million",
-	"Other":"millions",
-	"Color": "thead-light"
+	"One":" million",
+	"Other":" millions"
 }
