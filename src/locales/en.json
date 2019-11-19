@@ -6,5 +6,6 @@
 	"PulibicationDate": "Publication date",
 	"Views": "Views",
 	"One":"million",
-	"Other":"millions"
+	"Other":"millions",
+	"Color": "thead-light"
 }

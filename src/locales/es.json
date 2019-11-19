@@ -6,5 +6,7 @@
 	"PulibicationDate": "Fecha de publicación",
 	"Views": "No. Visitas",
 	"One":" millon",
-	"Other":" milliones"
+	"Other":" milliones",
+	"Color": "thead-red"
+
 }

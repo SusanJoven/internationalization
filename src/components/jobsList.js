@@ -42,8 +42,8 @@ export default class JobsList extends React.Component {
   render() {
     return (
       <div>
-        <table className="table">
-          <thead className="thead-dark">
+        <table className="table ">
+          <thead className={<FormattedMessage id="Color"/>}>
             <tr>
               <th scope="col">#</th>
               <th scope="col">
