@@ -4,5 +4,7 @@
 	"Salary": "Salario",
 	"City": "Ciudad",
 	"PulibicationDate": "Fecha de publicación",
-	"Views": "No. Visitas"
+	"Views": "No. Visitas",
+	"One":" millon",
+	"Other":" milliones"
 }

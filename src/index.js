@@ -12,7 +12,7 @@ let getBrowserLanguage = ()=> {
 }
 let getLanguage=()=>{
 	var lan = getBrowserLanguage();
-	if(lan == 'es-ES'){
+	if(lan === 'es-ES'){
 		return "es";
 	}
 	return "en";
@@ -21,7 +21,7 @@ let getLanguage=()=>{
 }
 let getLanguageData=()=>{
 	var lan = getBrowserLanguage();
-	if (lan == 'es-ES'){
+	if (lan === 'es-ES'){
 		return localeEsMessages;
 	}
 	return localeEnMessages;
